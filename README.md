@@ -1,5 +1,5 @@
 <p align=center> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:CFE189,100:576747&text=Hi there, I'm Alex👋&height=250&section=header&fontColor=E9F5DB&animation=fadeIn&desc=Software Engineer, UI/UX Designer, 3D Animator&fontAlignY=32&descSize=20&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:CFE189,100:576747&text=Hi%20there,%20I'm%20Alex👋&height=250&section=header&fontColor=E9F5DB&animation=fadeIn&desc=Software%20Engineer,%20UI/UX%20Designer,%203D%20Animator&fontAlignY=32&descSize=20&descAlignY=55"/>
 </p>
 
 ## 😁 Stuff about me:
