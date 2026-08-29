@@ -1,5 +1,5 @@
 <p align=center> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:CFE189,100:576747&text=Hi%20there,%20I'm%20Alex👋&height=255&section=header&fontColor=E9F5DB&animation=fadeIn&desc=𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎%20𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛,%20𝚄𝙸/𝚄𝚇%20𝙳𝚎𝚜𝚒𝚐𝚗𝚎𝚛,%203𝙳%20𝙰𝚗𝚒𝚖𝚊𝚝𝚘𝚛&fontAlignY=37&descSize=20&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:CFE189,100:576747&text=Hi%20there,%20I'm%20Alex%20👋&height=255&section=header&fontColor=E9F5DB&animation=fadeIn&desc=𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎%20𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛,%20𝚄𝙸/𝚄𝚇%20𝙳𝚎𝚜𝚒𝚐𝚗𝚎𝚛,%203𝙳%20𝙰𝚗𝚒𝚖𝚊𝚝𝚘𝚛&fontAlignY=37&descSize=20&descAlignY=60"/>
 </p>
 
 ## 😁 𝚂𝚝𝚞𝚏𝚏 𝚊𝚋𝚘𝚞𝚝 𝚖𝚎:
@@ -28,24 +28,25 @@
 
 ## 😎 𝚂𝚝𝚞𝚏𝚏 𝙸 𝚛𝚎𝚏𝚕𝚎𝚌𝚝 𝚞𝚙𝚘𝚗:
 <a href="https://github.com/DrSniperAlex/DrSniperAlex">
-  <img align="center" src="https://github-stats-extended-nine-theta.vercel.app/api/top-langs/?username=DrSniperAlex&hide=html&theme=dark&title_color=E9F5DB&text_color=E9F5DB&icon_color=A8C686&bg_color=475642&border_colour=E9F5DB&langs_count=3&border_radius=8" />
+  <img align="center" src="https://github-stats-extended-nine-theta.vercel.app/api/top-langs/?username=DrSniperAlex&hide=html&theme=dark&title_color=E9F5DB&text_color=E9F5DB&icon_color=A8C686&bg_color=475642border_color&border_color=E9F5DB&langs_count=3&border_radius=8" />
 </a>
 <a href="https://github.com/DrSniperAlex/DrSniperAlex">
-  <img align="center" src="https://github-stats-extended-nine-theta.vercel.app/api?username=DrSniperAlex&rank_icon=github&custom_title=My%20stats%20overall&show_icons=true&line_height=27&count_private=true&title_color=E9F5DB&text_color=E9F5DB&icon_color=A8C686&bg_color=475642&border_radius=8&border_colour=E9F5DB&include_all_commits=true" alt="Alex's GitHub Stats" >
+  <img align="center" src="https://github-stats-extended-nine-theta.vercel.app/api?username=DrSniperAlex&rank_icon=github&custom_title=My%20stats%20overall&show_icons=true&line_height=27&count_private=true&title_color=E9F5DB&text_color=E9F5DB&icon_color=A8C686&bg_color=475642&border_radius=8&border_color=E9F5DB&include_all_commits=true" alt="Alex's GitHub Stats" >
 </a>
 
 ## 🤩 𝚂𝚝𝚞𝚏𝚏 𝙸 𝚜𝚑𝚘𝚠 𝚘𝚏𝚏:
 <a href="https://github.com/DrSniperAlex/Simple_Search_Engine">
-  <img align="center" src="https://github-stats-extended-nine-theta.vercel.app/api/pin/?username=DrSniperAlex&repo=Simple_Search_Engine&theme=dark&card_width=250&title_color=E9F5DB&text_color=E9F5DB&icon_color=A8C686&border_colour=E9F5DB&bg_color=475642&border_radius=8" />
+  <img align="center" src="https://github-stats-extended-nine-theta.vercel.app/api/pin/?username=DrSniperAlex&repo=Simple_Search_Engine&theme=dark&card_width=300&title_color=E9F5DB&text_color=E9F5DB&icon_color=A8C686&border_color=E9F5DB&bg_color=475642&border_radius=8" />
 </a>
 <a href="https://github.com/DrSniperAlex/Weather_Forecast">
-  <img align="center" src="https://github-stats-extended-nine-theta.vercel.app/api/pin/?username=DrSniperAlex&repo=Weather_Forecast&theme=dark&card_width=250&title_color=E9F5DB&text_color=E9F5DB&icon_color=A8C686&border_colour=E9F5DB&bg_color=475642&langs_count=3&border_radius=8" />
+  <img align="center" src="https://github-stats-extended-nine-theta.vercel.app/api/pin/?username=DrSniperAlex&repo=Weather_Forecast&theme=dark&card_width=300&title_color=E9F5DB&text_color=E9F5DB&icon_color=A8C686&border_color=E9F5DB&bg_color=475642&langs_count=3&border_radius=8" />
 </a>
 <a href="https://github.com/DrSniperAlex/OOP_C_SHARP">
-  <img align="center" src="https://github-stats-extended-nine-theta.vercel.app/api/pin/?username=DrSniperAlex&repo=OOP_C_SHARP&theme=dark&card_width=250&title_color=E9F5DB&text_color=E9F5DB&icon_color=A8C686&border_colour=E9F5DB&bg_color=475642&border_radius=8" />
+  <img align="center" src="https://github-stats-extended-nine-theta.vercel.app/api/pin/?username=DrSniperAlex&repo=OOP_C_SHARP&theme=dark&card_width=300&title_color=E9F5DB&text_color=E9F5DB&icon_color=A8C686&border_color=E9F5DB&bg_color=475642&border_radius=8" />
 </a>
+<br>
 <a href="https://github.com/DrSniperAlex/ATM_Software">
-  <img align="center" src="https://github-stats-extended-nine-theta.vercel.app/api/pin/?username=DrSniperAlex&repo=ATM_Software&theme=dark&card_width=250&title_color=E9F5DB&text_color=E9F5DB&icon_color=A8C686&border_colour=E9F5DB&bg_color=475642&border_radius=8" />
+  <img align="center" src="https://github-stats-extended-nine-theta.vercel.app/api/pin/?username=DrSniperAlex&repo=ATM_Software&theme=dark&card_width=300&title_color=E9F5DB&text_color=E9F5DB&icon_color=A8C686&border_color=E9F5DB&bg_color=475642&border_radius=8" />
 </a>
 
 <p align=center> 
