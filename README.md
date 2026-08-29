@@ -1,12 +1,12 @@
 <p align=center> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:CFE189,100:576747&text=Hi%20there,%20I'm%20Alex👋&height=255&section=header&fontColor=E9F5DB&animation=fadeIn&desc=𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎%20𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛,%20𝚄𝙸/𝚄𝚇%20𝙳𝚎𝚜𝚒𝚐𝚗𝚎𝚛,%203𝙳%20𝙰𝚗𝚒𝚖𝚊𝚝𝚘𝚛&fontAlignY=37&descSize=20&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:CFE189,100:576747&text=Hi%20there,%20I'm%20Alex%20👋&height=255&section=header&fontColor=E9F5DB&animation=fadeIn&desc=𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎%20𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛,%20𝚄𝙸/𝚄𝚇%20𝙳𝚎𝚜𝚒𝚐𝚗𝚎𝚛,%203𝙳%20𝙰𝚗𝚒𝚖𝚊𝚝𝚘𝚛&fontAlignY=37&descSize=20&descAlignY=60"/>
 </p>
 
 ## 😁 𝚂𝚝𝚞𝚏𝚏 𝚊𝚋𝚘𝚞𝚝 𝚖𝚎:
-- 💻 𝙸'𝚖 𝚊 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛, 𝚞𝚒/𝚞𝚡 𝚍𝚎𝚜𝚒𝚐𝚗𝚎𝚛 𝚊𝚗𝚍 𝚊 3𝙳 𝚊𝚗𝚒𝚖𝚊𝚝𝚘𝚛 𝚏𝚛𝚘𝚖 𝚁𝚞𝚜𝚜𝚒𝚊, 𝚂𝚊𝚒𝚗𝚝-𝙿𝚎𝚝𝚎𝚛𝚜𝚋𝚞𝚛𝚐<br>
-- 📣 𝙸 𝚏𝚕𝚞𝚎𝚗𝚝𝚕𝚢 𝚜𝚙𝚎𝚊𝚔 𝚁𝚞𝚜𝚜𝚒𝚊𝚗 𝚊𝚗𝚍 𝙴𝚗𝚐𝚕𝚒𝚜𝚑 (𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚂𝚙𝚊𝚗𝚒𝚜𝚑)<br>
-- 📫 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝: [𝚍𝚛𝚜𝚗𝚒𝚙𝚎𝚛𝚠𝚘𝚛𝚔@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖](drsniperwork@gmail.com) 𝚘r [@𝙰𝚕𝚎𝚡𝚃𝚎𝚛𝚎𝚜𝚑𝚘𝚗𝚔𝚘𝚟](𝚑𝚝𝚝𝚙𝚜://𝚝.𝚖𝚎//𝙰𝚕𝚎𝚡𝚃𝚎𝚛𝚎𝚜𝚑𝚘𝚗𝚔𝚘𝚟)<br>
-- ⚙️ 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗: [` 𝚅𝚒𝚛𝚝𝚞𝚊𝚕 𝚃𝚊𝚋𝚕𝚎𝚝𝚘𝚙 𝙴𝚗𝚟 `](https://github.com/DrSniperAlex/Project_H)
+- 💻  𝙸'𝚖 j𝚞𝚜𝚝 𝚊 𝚐𝚞𝚢, 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚊𝚋𝚘𝚞𝚝 𝙸𝚃, 𝚜𝚎𝚎𝚔𝚒𝚗𝚐 𝕔𝕙𝕒𝕟𝕘𝕖<br>
+- 💬  𝙲𝚊𝚗 𝚏𝚕𝚞𝚎𝚗𝚝𝚕𝚢 𝚜𝚙𝚎𝚊𝚔 𝚁𝚞𝚜𝚜𝚒𝚊𝚗 🇷🇺, 𝙴𝚗𝚐𝚕𝚒𝚜𝚑 🇺🇸, 𝚊𝚗𝚍 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚊𝚖 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚂𝚙𝚊𝚗𝚒𝚜𝚑 🇪🇸<br>
+- 🤝  𝚆𝚊𝚗𝚗𝚊 𝚌𝚑𝚊𝚝？ 𝚁𝚎𝚊𝚌𝚑 𝚖𝚎 𝚋𝚢: [𝚖𝚊𝚒𝚕](drsniperwork@gmail.com) 𝚘𝚛 [𝚝𝚎𝚕𝚎𝚐𝚛𝚊𝚖](𝚑𝚝𝚝𝚙𝚜://𝚝.𝚖𝚎//𝙰𝚕𝚎𝚡𝚃𝚎𝚛𝚎𝚜𝚑𝚘𝚗𝚔𝚘𝚟.com)<br>
+- ⚙️  𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 [` 𝙰𝚕𝚝𝚎𝚛𝚎𝚍 𝚁𝚘𝚕𝚕 𝚅𝚃𝚃 `](https://alteredroll.com) 
 
 ## 🤓 𝚂𝚝𝚞𝚏𝚏 𝙸 𝚞𝚜𝚎:
 ![Windows](https://img.shields.io/badge/OS-Windows-informational.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAgMjAiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgZmlsbD0iI2ZmZmZmZiI+PGcgaWQ9IlNWR1JlcG9fYmdDYXJyaWVyIiBzdHJva2Utd2lkdGg9IjAiPjwvZz48ZyBpZD0iU1ZHUmVwb190cmFjZXJDYXJyaWVyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjwvZz48ZyBpZD0iU1ZHUmVwb19pY29uQ2FycmllciI+IDx0aXRsZT53aW5kb3dzIFsjMTc0XTwvdGl0bGU+IDxkZXNjPkNyZWF0ZWQgd2l0aCBTa2V0Y2guPC9kZXNjPiA8ZGVmcz4gPC9kZWZzPiA8ZyBpZD0iUGFnZS0xIiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4gPGcgaWQ9IkRyaWJiYmxlLUxpZ2h0LVByZXZpZXciIHRyYW5zZm9ybT0idHJhbnNsYXRlKC02MC4wMDAwMDAsIC03NDM5LjAwMDAwMCkiIGZpbGw9IiNmZmZmZmYiPiA8ZyBpZD0iaWNvbnMiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDU2LjAwMDAwMCwgMTYwLjAwMDAwMCkiPiA8cGF0aCBkPSJNMTMuMTQ1ODY0Nyw3Mjg5LjQzNDI2IEMxMy4xNTA4NzcyLDcyOTEuNDMzMTYgMTMuMTU2ODkyMiw3Mjk0LjgyOTI5IDEzLjE2MTkwNDgsNzI5Ny40Njg4NCBDMTYuNzc1OTM5OCw3Mjk3Ljk1NzU3IDIwLjM4OTk3NDksNzI5OC40NjEzIDIzLjk5Nzk5NSw3Mjk5IEMyMy45OTc5OTUsNzI5NS44NDg3MyAyNC4wMDIwMDUsNzI5Mi43MTE0NiAyMy45OTc5OTUsNzI4OS43MTMxMSBDMjAuMzgwOTUyNCw3Mjg5LjcxMzExIDE2Ljc2NDkxMjMsNzI4OS40MzQyNiAxMy4xNDU4NjQ3LDcyODkuNDM0MjYgTTQsNzI4OS40MzUyNiBMNCw3Mjk2LjIyMTUzIEM2LjcyNTgxNDU0LDcyOTYuNTg5MzMgOS40NTE2MjkwNyw3Mjk2Ljk0MTEzIDEyLjE3MjQzMTEsNzI5Ny4zNDI5MSBDMTIuMTc3NDQzNiw3Mjk0LjcxNzM2IDEyLjE3MDQyNjEsNzI5Mi4wOTA4IDEyLjE3MDQyNjEsNzI4OS40NjUyNCBDOS40NDY2MTY1NCw3Mjg5LjQ3MDI0IDYuNzIzODA5NTIsNzI4OS40MjYyNyA0LDcyODkuNDM1MjYgTTQsNzI4MS44NDM0NCBMNCw3Mjg4LjYxMDcxIEM2LjcyNTgxNDU0LDcyODguNjE3NzEgOS40NTE2MjkwNyw3Mjg4LjU3NjczIDEyLjE3NzQ0MzYsNzI4OC41Nzk3MyBDMTIuMTc1NDM4Niw3Mjg1Ljk2MDE3IDEyLjE3NTQzODYsNzI4My4zNDM2MSAxMi4xNzI0MzExLDcyODAuNzI0MDUgQzkuNDQ0NjExNTMsNzI4MS4wNjQ4NiA2LjcxNjc5MTk4LDcyODEuNDI1NjcgNCw3MjgxLjg0MzQ0IE0yNCw3Mjg4LjQ3MTc5IEMyMC4zODc5Njk5LDcyODguNDg1NzggMTYuNzc1OTM5OCw3Mjg4LjU0MDc1IDEzLjE2MTkwNDgsNzI4OC41NTE3NSBDMTMuMTU5ODk5Nyw3Mjg1Ljg4OTIxIDEzLjE1OTg5OTcsNzI4My4yMjk2NyAxMy4xNjE5MDQ4LDcyODAuNTY5MTQgQzE2Ljc2ODkyMjMsNzI4MC4wMTg0NCAyMC4zODM5NTk5LDcyNzkuNTAwNzIgMjMuOTk3OTk1LDcyNzkgQzI0LDcyODIuMTU4MjYgMjMuOTk3OTk1LDcyODUuMzEzNTMgMjQsNzI4OC40NzE3OSIgaWQ9IndpbmRvd3MtWyMxNzRdIj4gPC9wYXRoPiA8L2c+IDwvZz4gPC9nPiA8L2c+PC9zdmc+&logoColor=white&color=576747)
@@ -28,24 +28,25 @@
 
 ## 😎 𝚂𝚝𝚞𝚏𝚏 𝙸 𝚛𝚎𝚏𝚕𝚎𝚌𝚝 𝚞𝚙𝚘𝚗:
 <a href="https://github.com/DrSniperAlex/DrSniperAlex">
-  <img align="center" src="https://github-stats-extended-nine-theta.vercel.app/api/top-langs/?username=DrSniperAlex&hide=html&theme=dark&title_color=E9F5DB&text_color=E9F5DB&icon_color=A8C686&bg_color=475642&langs_count=3&border_radius=8" />
+  <img align="center" src="https://github-stats-extended-nine-theta.vercel.app/api/top-langs/?username=DrSniperAlex&hide=html&theme=dark&title_color=E9F5DB&text_color=E9F5DB&icon_color=A8C686&bg_color=475642&border_color=E9F5DB&langs_count=3&border_radius=8" />
 </a>
 <a href="https://github.com/DrSniperAlex/DrSniperAlex">
-  <img align="center" src="https://github-stats-extended-nine-theta.vercel.app/api?username=DrSniperAlex&rank_icon=github&hide_title=true&show_icons=true&line_height=27&count_private=true&title_color=E9F5DB&text_color=E9F5DB&icon_color=A8C686&bg_color=475642&border_radius=8&include_all_commits=true" alt="Alex's GitHub Stats" >
+  <img align="center" src="https://github-stats-extended-nine-theta.vercel.app/api?username=DrSniperAlex&rank_icon=github&custom_title=My%20Stats%20Overall&show_icons=true&line_height=27&count_private=true&title_color=E9F5DB&text_color=E9F5DB&icon_color=A8C686&bg_color=475642&border_radius=8&border_color=E9F5DB&include_all_commits=true" alt="Alex's GitHub Stats" >
 </a>
 
 ## 🤩 𝚂𝚝𝚞𝚏𝚏 𝙸 𝚜𝚑𝚘𝚠 𝚘𝚏𝚏:
 <a href="https://github.com/DrSniperAlex/Simple_Search_Engine">
-  <img align="center" src="https://github-stats-extended-nine-theta.vercel.app/api/pin/?username=DrSniperAlex&repo=Simple_Search_Engine&theme=dark&title_color=E9F5DB&text_color=E9F5DB&icon_color=A8C686&bg_color=475642&border_radius=8" />
+  <img align="center" src="https://github-stats-extended-nine-theta.vercel.app/api/pin/?username=DrSniperAlex&repo=Simple_Search_Engine&theme=dark&card_width=350&title_color=E9F5DB&text_color=E9F5DB&icon_color=A8C686&border_color=E9F5DB&bg_color=475642&border_radius=8" />
 </a>
 <a href="https://github.com/DrSniperAlex/Weather_Forecast">
-  <img align="center" src="https://github-stats-extended-nine-theta.vercel.app/api/pin/?username=DrSniperAlex&repo=Weather_Forecast&theme=dark&title_color=E9F5DB&text_color=E9F5DB&icon_color=A8C686&bg_color=475642&langs_count=3&border_radius=8" />
+  <img align="center" src="https://github-stats-extended-nine-theta.vercel.app/api/pin/?username=DrSniperAlex&repo=Weather_Forecast&theme=dark&card_width=350&title_color=E9F5DB&text_color=E9F5DB&icon_color=A8C686&border_color=E9F5DB&bg_color=475642&langs_count=3&border_radius=8" />
 </a>
+<br>
 <a href="https://github.com/DrSniperAlex/OOP_C_SHARP">
-  <img align="center" src="https://github-stats-extended-nine-theta.vercel.app/api/pin/?username=DrSniperAlex&repo=OOP_C_SHARP&theme=dark&title_color=E9F5DB&text_color=E9F5DB&icon_color=A8C686&bg_color=475642&border_radius=8" />
+  <img align="center" src="https://github-stats-extended-nine-theta.vercel.app/api/pin/?username=DrSniperAlex&repo=OOP_C_SHARP&theme=dark&card_width=350&title_color=E9F5DB&text_color=E9F5DB&icon_color=A8C686&border_color=E9F5DB&bg_color=475642&border_radius=8" />
 </a>
 <a href="https://github.com/DrSniperAlex/ATM_Software">
-  <img align="center" src="https://github-stats-extended-nine-theta.vercel.app/api/pin/?username=DrSniperAlex&repo=ATM_Software&theme=dark&title_color=E9F5DB&text_color=E9F5DB&icon_color=A8C686&bg_color=475642&border_radius=8" />
+  <img align="center" src="https://github-stats-extended-nine-theta.vercel.app/api/pin/?username=DrSniperAlex&repo=ATM_Software&theme=dark&card_width=350&title_color=E9F5DB&text_color=E9F5DB&icon_color=A8C686&border_color=E9F5DB&bg_color=475642&border_radius=8" />
 </a>
 
 <p align=center> 
