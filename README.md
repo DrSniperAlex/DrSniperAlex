@@ -16,7 +16,7 @@
   <img align="center" src="https://github-stats-extended-nine-theta.vercel.app/api/top-langs/?username=the-altered-one&hide=html&theme=dark&title_color=E9F5DB&text_color=E9F5DB&icon_color=A8C686&bg_color=475642&border_color=E9F5DB&langs_count=3&border_radius=8" />
 </a>
 <a href="https://github.com/the-altered-one/the-altered-one">
-  <img align="center" src="https://github-stats-extended-nine-theta.vercel.app/api?username=the-altered-one&rank_icon=github&custom_title=My%20Stats%20Overall&show_icons=true&line_height=27&count_private=true&title_color=E9F5DB&text_color=E9F5DB&icon_color=A8C686&bg_color=475642&border_radius=8&border_color=E9F5DB&include_all_commits=true" alt="Alex's GitHub Stats" >
+  <img align="center" src="https://github-stats-extended-nine-theta.vercel.app/api?username=the-altered-one&hide=issues&show=prs_merged_percentage&rank_icon=github&show_icons=true&line_height=27&count_private=true&custom_title=My%20Other%20Important%20Stats&title_color=E9F5DB&text_color=E9F5DB&icon_color=A8C686&bg_color=475642&border_radius=8&border_color=E9F5DB&include_all_commits=true" alt="Alex's GitHub Stats" >
 </a>
 
 ## 🤩 𝚂𝚝𝚞𝚏𝚏 𝙸'𝚖 𝚙𝚛𝚘𝚞𝚍 𝚘𝚏:
